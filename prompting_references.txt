@@ -1,0 +1,3 @@
+Wei J. et al (2023) Chain-of-Thought Prompting Elicits Reasoning in Large Language Models arxiv:2201.11903 
+https://arxiv.org/pdf/2201.11903
+
